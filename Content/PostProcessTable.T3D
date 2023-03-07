@@ -1,0 +1,9 @@
+Begin Object Class=/Script/Engine.DataTable Name="PostProcessTable"
+   Begin Object Class=/Script/Engine.AssetImportData Name="AssetImportData"
+   End Object
+   Begin Object Name="AssetImportData"
+   End Object
+   RowStruct=/Script/Engine.UserDefinedStruct'"/Game/BP/PostProcessStruct.PostProcessStruct"'
+   AssetImportData=/Script/Engine.AssetImportData'"AssetImportData"'
+   RowStructPathName="/Game/BP/PostProcessStruct.PostProcessStruct"
+End Object
